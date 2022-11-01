@@ -46,4 +46,6 @@ Average case olur çünkü 18 sayısı ortada yer alır
 [2, 3, 4, 5, 7, 8, 9, 15, 16] = Dördüncü adım
 
 
+[Patika.dev](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
+
 
